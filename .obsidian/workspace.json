@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "6c679970d67af610",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c9cdbc42ef6882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e7dc8c664ed001",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93b86b5a72875d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "814d8ee32731b9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4da3fbf072562d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b2863c8e9fe92d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13a9e7de982787cc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39fbabec23422e6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d01eecab4960b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba2969fbcaee1b11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a242bdfa20d6579",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fabd0c2560792ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf6a7891dea4199b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29e7dc8c664ed001",
+  "lastOpenFiles": [
+    "Ukrainian/Alphabet.md",
+    "Ukrainian/Keyboard (Windows).md",
+    "Alphabet.md"
+  ]
+}
