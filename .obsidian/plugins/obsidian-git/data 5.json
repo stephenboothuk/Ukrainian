@@ -9,25 +9,17 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-<<<<<<< HEAD
-  "listChangedFilesInMessageBody": true,
-=======
   "listChangedFilesInMessageBody": false,
->>>>>>> origin/main
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
-<<<<<<< HEAD
   "refreshSourceControl": true,
-=======
-  "refreshSourceControl": false,
->>>>>>> origin/main
-  "basePath": "",
+  "basePath": "C:\\Users\\User\\Documents\\Learning\\Ukrainian\\",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true

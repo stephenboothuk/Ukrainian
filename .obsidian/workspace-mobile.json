@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "699281f85da03f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "232452ea48da32ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0effede320c5e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0991abba354bf76",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e5579e01db4c92c3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1b8d246c4f2156e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ecceee82896de8ab",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3514eeac395ade79",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "98e9ca14992d6d6c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9c69c3c1558992b3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "41097fe2987995c7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ea0a9b82003605ad",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9b0effede320c5e1",
+  "lastOpenFiles": [
+    "Ukrainian/README.md",
+    "Contents.md",
+    "Ukrainian/Alphabet.md",
+    "Verb To Be.md",
+    "Ukrainian/Ukranian_Windows.pdf"
+  ]
+}
