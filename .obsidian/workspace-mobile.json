@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "232452ea48da32ef",
+        "id": "fa6295f33f0cc598",
         "type": "tabs",
         "children": [
           {
-            "id": "9b0effede320c5e1",
+            "id": "38d55069f0c43d3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -113,8 +113,10 @@
     ],
     "currentTab": 0
   },
-  "active": "9b0effede320c5e1",
+  "active": "38d55069f0c43d3c",
   "lastOpenFiles": [
+    "Alphabet.md",
+    "Ukranian_Windows.pdf",
     "Ukrainian/README.md",
     "Contents.md",
     "Ukrainian/Alphabet.md",

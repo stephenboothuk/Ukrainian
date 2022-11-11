@@ -9,22 +9,14 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-<<<<<<< HEAD
-  "listChangedFilesInMessageBody": true,
-=======
   "listChangedFilesInMessageBody": false,
->>>>>>> origin/main
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
-<<<<<<< HEAD
-  "refreshSourceControl": true,
-=======
   "refreshSourceControl": false,
->>>>>>> origin/main
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
